@@ -1,0 +1,3 @@
+- pfx
+- Pkcs7
+- Extended Key Usage (EKU) EKU = code signing

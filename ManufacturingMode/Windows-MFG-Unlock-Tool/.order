@@ -1,0 +1,3 @@
+SignAndUnlockZeta.ps1-(production-key)
+UnlockZetaWithTestCerts.cmd--Log-(test-key)
+ManufacturingMode-%2D-fastboot-oem-command

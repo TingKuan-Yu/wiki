@@ -1,0 +1,1 @@
+- BoardConfig.mk & oemc1.mk affects Makefile

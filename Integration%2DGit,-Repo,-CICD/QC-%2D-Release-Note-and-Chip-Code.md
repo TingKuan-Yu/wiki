@@ -1,0 +1,1 @@
+- https://chipcode.qti.qualcomm.com/microsoft-corporation/snapdragon-premium-high-2020-spf-1-0_amss_standard_oem/tree/r1.0.c8_00007.7
